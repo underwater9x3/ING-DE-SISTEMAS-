@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\SEMANA_9_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|solutionrelative:SEMANA_9_PYTHON.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRIANGULO.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|solutionrelative:TRIANGULO.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\CUADRADO.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|solutionrelative:CUADRADO.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\RECTANGULO.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|solutionrelative:RECTANGULO.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRAPECIO.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D867F17-9F94-439A-BE08-BA0493E65649}|SEMANA 9 PYTHON.pyproj|solutionrelative:TRAPECIO.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TRAPECIO.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRAPECIO.py",
+              "RelativeDocumentMoniker": "TRAPECIO.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRAPECIO.py",
+              "RelativeToolTip": "TRAPECIO.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-14T19:42:17.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RECTANGULO.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\RECTANGULO.py",
+              "RelativeDocumentMoniker": "RECTANGULO.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\RECTANGULO.py",
+              "RelativeToolTip": "RECTANGULO.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-14T19:42:04.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUADRADO.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\CUADRADO.py",
+              "RelativeDocumentMoniker": "CUADRADO.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\CUADRADO.py",
+              "RelativeToolTip": "CUADRADO.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-14T19:41:48.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TRIANGULO.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRIANGULO.py",
+              "RelativeDocumentMoniker": "TRIANGULO.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\TRIANGULO.py",
+              "RelativeToolTip": "TRIANGULO.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-14T19:41:35.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SEMANA_9_PYTHON.py",
+              "DocumentMoniker": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\SEMANA_9_PYTHON.py",
+              "RelativeDocumentMoniker": "SEMANA_9_PYTHON.py",
+              "ToolTip": "C:\\Users\\UPN\\Desktop\\8450 - SEMANA 9\\SEMANA 9\\SEMANA 9 PYTHON\\SEMANA_9_PYTHON.py",
+              "RelativeToolTip": "SEMANA_9_PYTHON.py",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-10-14T19:40:11.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
